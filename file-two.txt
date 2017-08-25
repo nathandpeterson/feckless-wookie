@@ -1,7 +1,1 @@
-sdfasdfasdfa
-sdf
-afds
-asf
-afsd
-fsdafadfasf
-
+This file was pointless; now it is less so.
